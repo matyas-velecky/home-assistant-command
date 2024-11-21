@@ -20,7 +20,7 @@ motion senzor
 - https://www.aliexpress.com/item/1005004992933997.html?spm=a2g0o.productlist.main.1.21601a6e3j4fRs&algo_pvid=d1600f52-1cf0-4386-97b8-17b7c4160e9b&algo_exp_id=d1600f52-1cf0-4386-97b8-17b7c4160e9b-0&pdp_npi=4%40dis%21CZK%2134.37%2124.31%21%21%211.40%210.99%21%40211b613917321736069977776ec782%2112000031269651015%21sea%21CZ%210%21ABX&curPageLogUid=HrbJfl5GxMIr&utparam-url=scene%3Asearch%7Cquery_from%3A
 
 *socket*
--https://www.aliexpress.com/gcp/300000512/nnmixupdatev3?spm=a2g0o.productlist.main.1.67b96ef0QUsfzF&productIds=1005006904593715&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&channelLinkTag=nn_newgcp&sourceName=mainSearchProduct&utparam-url=scene%3Asearch%7Cquery_from%3A
+- https://www.aliexpress.com/gcp/300000512/nnmixupdatev3?spm=a2g0o.productlist.main.1.67b96ef0QUsfzF&productIds=1005006904593715&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&channelLinkTag=nn_newgcp&sourceName=mainSearchProduct&utparam-url=scene%3Asearch%7Cquery_from%3A
 
 
 **command**
