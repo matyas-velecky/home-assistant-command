@@ -1,4 +1,4 @@
-# home-assistant-command
+# home-assistant-components/commands
 
 **komonenty**
 *senzory*
