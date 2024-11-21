@@ -31,7 +31,7 @@ motion senzor
 *sound card*
 - https://www.aliexpress.com/item/1005007039952658.html?spm=a2g0o.productlist.main.1.4a78q9Nkq9Nkqq&algo_pvid=80cac177-14ea-4864-a8c7-595bfafea173&algo_exp_id=80cac177-14ea-4864-a8c7-595bfafea173-0&pdp_npi=4%40dis%21CZK%21604.44%21444.86%21%21%2124.62%2118.12%21%402103892f17321745076478022ee554%2112000039184961022%21sea%21CZ%210%21ABX&curPageLogUid=7R9j5xMUsYWo&utparam-url=scene%3Asearch%7Cquery_from%3A
 **command**
-*variable*
+|*variable*|
 |------------|
 |input_boolean:|
 |  variable_name:|
