@@ -22,7 +22,11 @@ motion senzor
 *socket*
 - https://www.aliexpress.com/gcp/300000512/nnmixupdatev3?spm=a2g0o.productlist.main.1.67b96ef0QUsfzF&productIds=1005006904593715&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&channelLinkTag=nn_newgcp&sourceName=mainSearchProduct&utparam-url=scene%3Asearch%7Cquery_from%3A
 
-
+*lightbulb*
+- https://www.aliexpress.com/item/1005007554918513.html?spm=a2g0o.productlist.main.13.4954Ra2ARa2ApH&algo_pvid=04a90112-8ac6-44df-ad97-64e780d81c52&algo_exp_id=04a90112-8ac6-44df-ad97-64e780d81c52-6&pdp_npi=4%40dis%21CZK%21124.23%21124.23%21%21%215.06%215.06%21%40211b653717321738867034752e531b%2112000041276858895%21sea%21CZ%210%21ABX&curPageLogUid=bMThOxXBlBTR&utparam-url=scene%3Asearch%7Cquery_from%3A
+- 
+*voice assistant*
+- https://www.mall.cz/centralni-jednotky/google-google-home-bila-pouzite-100142418199?utm_source=google&utm_medium=cpc&utm_campaign=MP%3EPRF%3ESERP%3EMarketplace%3EHighPriority%3EPLA%3EMAX&ev_campaign_id=17428109205&gad_source=1&gclid=EAIaIQobChMIyrf3pfPsiQMVEJeDBx2SahK6EAQYBCABEgJqYPD_BwE
 **command**
 *variable*
 input_boolean:
