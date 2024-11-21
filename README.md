@@ -32,7 +32,8 @@ motion senzor
 - https://www.aliexpress.com/item/1005007039952658.html?spm=a2g0o.productlist.main.1.4a78q9Nkq9Nkqq&algo_pvid=80cac177-14ea-4864-a8c7-595bfafea173&algo_exp_id=80cac177-14ea-4864-a8c7-595bfafea173-0&pdp_npi=4%40dis%21CZK%21604.44%21444.86%21%21%2124.62%2118.12%21%402103892f17321745076478022ee554%2112000039184961022%21sea%21CZ%210%21ABX&curPageLogUid=7R9j5xMUsYWo&utparam-url=scene%3Asearch%7Cquery_from%3A
 ----------------------------
 *display*
-https://www.aliexpress.com/item/1005006355715708.html?spm=a2g0o.productlist.main.1.3ced7194GnzIU6&algo_pvid=8711c732-1a4b-4858-8f8e-e667d4e64983&algo_exp_id=8711c732-1a4b-4858-8f8e-e667d4e64983-0&pdp_npi=4%40dis%21CZK%21398.95%21187.57%21%21%2116.25%217.64%21%40211b653717321784249021265e5311%2112000036871002448%21sea%21CZ%210%21ABX&curPageLogUid=V234ajcnLNYK&utparam-url=scene%3Asearch%7Cquery_from%3A
+https://www.aliexpress.com/item/1005006471099177.html?spm=a2g0o.productlist.main.15.5c345f02Zcu77L&algo_pvid=2c8ba70a-c82d-455d-960f-05e2cc7f2420&aem_p4p_detail=202411210044354964698548336000000082460&algo_exp_id=2c8ba70a-c82d-455d-960f-05e2cc7f2420-7&pdp_npi=4%40dis%21CZK%211223.69%21673.03%21%21%21361.27%21198.70%21%40211b876e17321786754185741ef03d%2112000037319951906%21sea%21CZ%210%21ABX&curPageLogUid=1U2XzY7fyCmC&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202411210044354964698548336000000082460_2
+**i controle everything with this raspbery pi/Jeff Gerling*
 ----------------------------
 **command**
   
