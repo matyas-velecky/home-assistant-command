@@ -37,3 +37,4 @@ motion senzor
 |  variable_name:|
 |    name: <name>|
 |    icon: mdi:<icon>|
+|------------|
