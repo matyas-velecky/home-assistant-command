@@ -35,6 +35,10 @@ motion senzor
 - https://www.aliexpress.com/item/1005006471099177.html?spm=a2g0o.productlist.main.15.5c345f02Zcu77L&algo_pvid=2c8ba70a-c82d-455d-960f-05e2cc7f2420&aem_p4p_detail=202411210044354964698548336000000082460&algo_exp_id=2c8ba70a-c82d-455d-960f-05e2cc7f2420-7&pdp_npi=4%40dis%21CZK%211223.69%21673.03%21%21%21361.27%21198.70%21%40211b876e17321786754185741ef03d%2112000037319951906%21sea%21CZ%210%21ABX&curPageLogUid=1U2XzY7fyCmC&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202411210044354964698548336000000082460_2
 **i controle everything with this raspbery pi/Jeff Gerling*
 ----------------------------
+*pi*
+https://www.aliexpress.com/item/1005006505601631.html?spm=a2g0o.productlist.main.3.86c6dL9wdL9wrM&algo_pvid=761c9dbe-171d-423b-8e49-6c120389e09d&algo_exp_id=761c9dbe-171d-423b-8e49-6c120389e09d-1&pdp_npi=4%40dis%21CZK%211644.21%211570.70%21%21%21486.25%21464.51%21%40210384b217327758438142886ee1c6%2112000037446342163%21sea%21CZ%210%21ABX&curPageLogUid=yoYpszdCNpFY&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+----------------------------
 **command**
   
 *variable*
