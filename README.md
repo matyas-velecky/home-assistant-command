@@ -36,7 +36,8 @@ motion senzor
 **i controle everything with this raspbery pi/Jeff Gerling*
 ----------------------------
 *pi*
-https://www.aliexpress.com/item/1005006505601631.html?spm=a2g0o.productlist.main.3.86c6dL9wdL9wrM&algo_pvid=761c9dbe-171d-423b-8e49-6c120389e09d&algo_exp_id=761c9dbe-171d-423b-8e49-6c120389e09d-1&pdp_npi=4%40dis%21CZK%211644.21%211570.70%21%21%21486.25%21464.51%21%40210384b217327758438142886ee1c6%2112000037446342163%21sea%21CZ%210%21ABX&curPageLogUid=yoYpszdCNpFY&utparam-url=scene%3Asearch%7Cquery_from%3A
+- [https://www.aliexpress.com/item/1005006505601631.html?spm=a2g0o.productlist.main.3.86c6dL9wdL9wrM&algo_pvid=761c9dbe-171d-423b-8e49-6c120389e09d&algo_exp_id=761c9dbe-171d-423b-8e49-6c120389e09d-1&pdp_npi=4%40dis%21CZK%211644.21%211570.70%21%21%21486.25%21464.51%21%40210384b217327758438142886ee1c6%2112000037446342163%21sea%21CZ%210%21ABX&curPageLogUid=yoYpszdCNpFY&utparam-url=scene%3Asearch%7Cquery_from%3A](https://rpishop.cz/raspberry-pi-4/2611-raspberry-pi-4-model-b-8gb-ram.html?_gl=1*15ov8t8*_up*MQ..*_gs*MQ..&gclid=EAIaIQobChMIj_3Ur7b-iQMVA6iDBx2bMxSdEAAYASAAEgLR0fD_BwE)
+- https://rpishop.cz/raspberry-pi-4/1598-raspberry-pi-4-model-b-4gb-ram.html?_gl=1*15ov8t8*_up*MQ..*_gs*MQ..&gclid=EAIaIQobChMIj_3Ur7b-iQMVA6iDBx2bMxSdEAAYASAAEgLR0fD_BwE
 
 ----------------------------
 **command**
