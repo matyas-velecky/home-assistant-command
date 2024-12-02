@@ -48,3 +48,15 @@ motion senzor
      - name: <name>
      - icon: mdi:<icon>
 
+*influx db config*
+influxdb:
+  include:
+    domains:
+      - alarm_control_panel
+      - light
+    entity_globs:
+      - binary_sensor.*_occupancy
+      - input_number.*
+  exclude:
+    entities:
+      - light.kitchen_light
