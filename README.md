@@ -60,3 +60,19 @@ influxdb:
   exclude:
     entities:
       - light.kitchen_light
+      
+*input number*
+input_number:
+  slider1:
+    name: Slider
+    initial: 30
+    min: -20
+    max: 35
+    step: 1
+  box1:
+    name: Numeric Input Box
+    initial: 30
+    min: -20
+    max: 35
+    step: 1
+    mode: box
